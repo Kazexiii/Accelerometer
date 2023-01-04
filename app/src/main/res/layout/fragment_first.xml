@@ -24,7 +24,7 @@
         android:id="@+id/button_first6"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="get up and go test"
+        android:text="timed up and go test"
         android:textSize="16sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
