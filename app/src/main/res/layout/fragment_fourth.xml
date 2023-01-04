@@ -12,7 +12,7 @@
         android:layout_width="302dp"
         android:layout_height="95dp"
         android:layout_marginTop="220dp"
-        android:text="Please start the timer and perform the get up and go test."
+        android:text="Please start the timer and perform the timed up and go test."
         android:textColor="#101010"
         android:textSize="24sp"
         android:textStyle="bold"

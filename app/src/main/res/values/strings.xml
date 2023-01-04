@@ -6,6 +6,7 @@
     <string name="second_fragment_label">Six Minute Walk Test</string>
     <string name="next">Six Minute Walk Test</string>
     <string name="previous">Previous</string>
+    <string name="start">Start</string>
 
     <string name="hello_first_fragment">Hello! Please pick an exercise activity</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
